@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.Kaushik_assign_4" parent="android:Theme.Material.Light.NoActionBar" />
+</resources>
